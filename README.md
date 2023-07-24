@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>แนะนำตัว</title>
+แนะนำตัว
 <meta charset="UTF-8">
 </head> 
 <body style="background-color:black;">
